@@ -1,0 +1,16 @@
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
+	<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div>
+
+//this is orginal code 
+
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email"></label>
+	<input type="text" size="18" placeholder="Email Address" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+</div>
+
+//this is what i want to do
+// I am using mailchimp widget in my wordpress website
+// I want to remove sub heading and add a place holder
+== http://germanbrain.com/ this is my website you can visit at the footer and see the problem
